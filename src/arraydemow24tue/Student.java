@@ -6,8 +6,8 @@ package arraydemow24tue;
 
 /**
  *
- * @author Ronak
- * this was edited by Kanwal on jan 30 at 12:00
+ * @author Kanwal
+ * this has been modified by Kanwal on jan 30 at 12:00
  */
 public class Student {
     private int sid;
